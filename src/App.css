@@ -16,4 +16,9 @@ article{
       opacity: 0.5;
     }
   }
+  & p{
+    font-size: 15px;
+    font-family: monospace;
+    opacity: 0.7;
+  }
 }
